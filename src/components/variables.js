@@ -1,0 +1,1 @@
+export const APIURL = 'http://www.mocky.io/v2/5d1a17de2f00002c00fd748e'
